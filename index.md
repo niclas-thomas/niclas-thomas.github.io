@@ -59,5 +59,5 @@ Happy to give talks tailored to specific conferences on data science in medical 
 **Proven track record in academic research**  
 Many publications in prestigious journals including *Nature Medicine* and *Nature Immunology*.
 
-**Proven track record in delivering production algorithms in a corporate setting**  
+**Proven track record of delivering algorithms in business**  
 Experience at several large retailers delivering complex data science projects to add business value. Equally comfortable writing code as leading teams of data scientists.
