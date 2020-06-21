@@ -30,9 +30,7 @@ linkedin: niclas-thomas-1159bb29 # the part after ("https://www.linkedin.com/in/
 # By declaring these variables, you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. In addition, you must 1) create an HTML file in the_includes folder for each project with the text you'd like to display, and 2) create a YAML file in the _data folder describing the order in which each project should be shown and categorized. See `/includes/example.html` and `/_data/work.yml` for examples.
 
 portfolio:  consultancy # the heading for your portfolio and title of your YAML file
-portfolio_description: I am an experienced data scientist and have 10+ years solving all sorts of problems. For any medical research data science problems, I am available at the competitive rate of £70/hr.
-
-Please contact me using the details below for a quote for your work, I'm always happy to help!
+portfolio_description: you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. # a description to be desplayed below the heading and above the content
 
 # optional CTA section --------------------------------------------------
 
@@ -40,17 +38,25 @@ Please contact me using the details below for a quote for your work, I'm always 
 cta: contact # the heading for your CTA section
 cta_description: Please don't hesitate to get in touch if you'd like to collaborate or get a quote for work. # a description to be desplayed below the heading and above the content
 cta_button: mailto:niclas.thomas@gmail.com # a link to an external website or to media
-cta_button_label: Contact # the label on the button
+cta_button_label: contact # the label on the button
 
 ---			
 [//]: # (write a bit about yourself here)
 
-Problem solver. Experienced Python programmer, PhD in machine learning, MMath in mathematics.
+Consultancy work here
 
-Proven track-record in academic research. Publications in prestigious journals including Nature Medicine and Nature Immunology.
+### Author of Data Science for Immunologists
+  
+Data science is a complex subject, but nevertheless one that can be made accessible to all through clear, intuitive explanations and worked examples.
 
-Author. Published Data Science for Immunologists, a book to aid newcomers to the world of data science in medical research, complete with coding examples in Python and R.
 
-Freelance consultant. Collaborations with academic researchers at £70/hr to deliver cutting-edge research at a great value.
+Existing software that forms the backbone of an immunologist's analytical toolkit (such as FlowJo and Prism) are expensive, inflexible and promotes a narrow mindset when it comes to analysing your data. On the other hand, the Python and R programming languages are open source, free and entirely customisable, giving the user the ability to implement any analysis they wish.
+​
 
-Proven track-record in delivering corporate algorithms at a large scale. Delivered production algorithms at several large retailers. Experienced developing proof-of-concepts from initial idea through to production release. Successful in leading data science teams in a fast-paces environment.
+Although programming languages can seem daunting to the uninitiated, it's far easier to learn than many immunologists may think. Rather than seeking to become an expert programmer, an understanding of the main concepts is more than enough to conduct your own bespoke analyses when coupled with a sound mathematical and statistical understanding.
+​
+
+Our new book focusses on the practical aspects of data science, providing sufficient theoretical background without delving into all of the details of each of the methods presented. Introductory chapters are presented alongside the analysis of a publicly available data set, allowing the reader to have practical hands-on experience when learning about important concepts in statistics, machine learning and programming.
+​
+
+Once these fundamental topics have been covered, a number of case studies are presented, along with the underlying data, accompanying code and full explanations on topics such as automated, data-driven flow cytometry, building predictive models of disease using gene expression profiling and analysing high throughput sequencing data.
