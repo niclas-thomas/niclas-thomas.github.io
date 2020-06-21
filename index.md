@@ -16,7 +16,7 @@ favicon: /assets/ico/favicon.ico
 
 # social media
 twitter_username: datasciimmunol # # your twitter handle
-github_username:  ncthomas # your github username
+github_username:  niclas-thomas # your github username
 linkedin: niclas-thomas-1159bb29 # the part after ("https://www.linkedin.com/in/...")
 # facebook_username: <-- your facebook username (the part after "https://www.facebook.com/...")
 # google_analytics: <-- your google analytics Tracking ID
