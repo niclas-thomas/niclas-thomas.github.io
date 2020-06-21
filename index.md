@@ -44,20 +44,20 @@ cta_button_label: contact # the label on the button
 ---			
 [//]: # (write a bit about yourself here)
 
-**Problem solver**
+**Problem solver**  
 Experienced Python programmer and machine learning expert.
 
-**Author**
+**Author**  
 Author of *Data Science for Immunologists*, a beginner's guide to machine learning and statistics for medical researchers. Find out more [here](http://www.datascienceforimmunologists.com)
 
-**Available as a freelance data scientist**
+**Available as a freelance data scientist**  
 Available on an hourly basis (£70/hr) to assist with the mathematical, statistical and machine learning aspects of your medical research. From straightforward advice on statistics and anaysis of experiments to complex buils of machine learning algorithms, please feel free to get in touch using the details below for a quote.
 
-**Available as a public speaker**
+**Available as a public speaker**  
 Happy to give talks tailored to specific conferences on data science in medical research and business.
 
-**Proven track record in academic research**
+**Proven track record in academic research**  
 Many publications in prestigious journals including *Nature Medicine* and *Nature Immunology*.
 
-**Proven track record in delivering production algorithms in a corporate setting**
+**Proven track record in delivering production algorithms in a corporate setting**  
 Experience at several large retailers delivering complex data science projects to add business value. Equally comfortable writing code as leading teams of data scientists.
