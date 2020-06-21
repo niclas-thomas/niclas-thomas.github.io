@@ -1,11 +1,11 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: Niclas Thomas
+author: Niclas Thomas
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
-baseurl: ""
+  DATA SCIENTIST -- AUTHOR -- CONSULTANT
+baseurl: "ncthomas.github.io"
 
 plugins:
   - jekyll-feed
