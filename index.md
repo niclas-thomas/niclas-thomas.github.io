@@ -45,12 +45,12 @@ cta_button_label: Contact # the label on the button
 ---			
 [//]: # (write a bit about yourself here)
 
-**Problem solver**. Experienced Python programmer, PhD in machine learning, MMath in mathematics.
+Problem solver. Experienced Python programmer, PhD in machine learning, MMath in mathematics.
 
-**Proven track-record in academic research**. Publications in prestigious journals including *Nature Medicine* and *Nature Immunology*.
+Proven track-record in academic research. Publications in prestigious journals including Nature Medicine and Nature Immunology.
 
-**Author**. Published *Data Science for Immunologists*, a book to aid newcomers to the world of data science in medical research, complete with coding examples in Python and R.
+Author. Published Data Science for Immunologists, a book to aid newcomers to the world of data science in medical research, complete with coding examples in Python and R.
 
-**Freelance consultant**. Collaborations with academic researchers at £70/hr to deliver cutting-edge research at a great value.
+Freelance consultant. Collaborations with academic researchers at £70/hr to deliver cutting-edge research at a great value.
 
-**Proven track-record in delivering corporate algorithms at a large scale**. Delivered production algorithms at several large retailers. Experienced developing proof-of-concepts from initial idea through to production release. Successful in leading data science teams in a fast-paces environment.
+Proven track-record in delivering corporate algorithms at a large scale. Delivered production algorithms at several large retailers. Experienced developing proof-of-concepts from initial idea through to production release. Successful in leading data science teams in a fast-paces environment.
