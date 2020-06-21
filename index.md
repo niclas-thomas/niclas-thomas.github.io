@@ -43,20 +43,6 @@ cta_button_label: contact # the label on the button
 ---			
 [//]: # (write a bit about yourself here)
 
-Consultancy work here
+**Problem solver** Experienced Python programmer and machine learning expert.
 
-### Author of Data Science for Immunologists
-  
-Data science is a complex subject, but nevertheless one that can be made accessible to all through clear, intuitive explanations and worked examples.
-
-
-Existing software that forms the backbone of an immunologist's analytical toolkit (such as FlowJo and Prism) are expensive, inflexible and promotes a narrow mindset when it comes to analysing your data. On the other hand, the Python and R programming languages are open source, free and entirely customisable, giving the user the ability to implement any analysis they wish.
-​
-
-Although programming languages can seem daunting to the uninitiated, it's far easier to learn than many immunologists may think. Rather than seeking to become an expert programmer, an understanding of the main concepts is more than enough to conduct your own bespoke analyses when coupled with a sound mathematical and statistical understanding.
-​
-
-Our new book focusses on the practical aspects of data science, providing sufficient theoretical background without delving into all of the details of each of the methods presented. Introductory chapters are presented alongside the analysis of a publicly available data set, allowing the reader to have practical hands-on experience when learning about important concepts in statistics, machine learning and programming.
-​
-
-Once these fundamental topics have been covered, a number of case studies are presented, along with the underlying data, accompanying code and full explanations on topics such as automated, data-driven flow cytometry, building predictive models of disease using gene expression profiling and analysing high throughput sequencing data.
+**Freelance consultant** Proven track record of delivering cutting-edge research, including papers in Nature Medicine and Nature Immunology.
