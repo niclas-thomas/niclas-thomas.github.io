@@ -32,8 +32,8 @@ linkedin: niclas-thomas-1159bb29 # the part after ("https://www.linkedin.com/in/
 # portfolio:  consultancy # the heading for your portfolio and title of your YAML file
 # portfolio_description: consultancy work here
 
-portfolio: freelance consultant # the heading for your portfolio and title of your YAML file
-portfolio_description: onarary contract at UCL with a proven track record delivering high-impact machine learning and statistical contributions to medical research papers.
+portfolio: consultancy # the heading for your portfolio and title of your YAML file
+portfolio_description: Available on an hourly basis (£70/hr) to assist with the mathematical, statistical and machine learning aspects of your medical research. Honarary contract at UCL with a proven track record delivering high-impact machine learning and statistical contributions to medical research papers. Please see below for a selection of papers where I have acted as a machine learning and statistical consultant.
 
 # optional CTA section --------------------------------------------------
 
