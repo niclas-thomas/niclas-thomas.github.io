@@ -32,8 +32,8 @@ linkedin: niclas-thomas-1159bb29 # the part after ("https://www.linkedin.com/in/
 # portfolio:  consultancy # the heading for your portfolio and title of your YAML file
 # portfolio_description: consultancy work here
 
-portfolio: work # the heading for your portfolio and title of your YAML file
-portfolio_description: you can include a portfolio showcasing your work and organize your portfolio's items into a custom layout, all without adding any CSS. # a description to be desplayed below the heading and above the content
+portfolio: freelance consultant # the heading for your portfolio and title of your YAML file
+portfolio_description: onarary contract at UCL with a proven track record delivering high-impact machine learning and statistical contributions to medical research papers.
 
 # optional CTA section --------------------------------------------------
 
@@ -56,7 +56,7 @@ Author of *Data Science for Immunologists*, a beginner's guide to machine learni
 Available on an hourly basis (£70/hr) to assist with the mathematical, statistical and machine learning aspects of your medical research. From straightforward advice on statistics and anaysis of experiments to complex buils of machine learning algorithms, please feel free to get in touch using the details below for a quote.
 
 **Available as a public speaker**  
-Happy to give talks tailored to specific conferences on data science in medical research and business.
+Experienced public speaker giving tailored talks on data science, both in medical research and business.
 
 **Proven track record in academic research**  
 Many publications in prestigious journals including *Nature Medicine* and *Nature Immunology*.

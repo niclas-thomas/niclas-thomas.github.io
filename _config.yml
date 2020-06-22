@@ -5,7 +5,7 @@ title: Niclas Thomas
 author: Niclas Thomas
 description: > 
   DATA SCIENTIST -- AUTHOR -- CONSULTANT
-baseurl: "ncthomas.github.io"
+baseurl: "niclas-thomas.github.io"
 
 plugins:
   - jekyll-feed
