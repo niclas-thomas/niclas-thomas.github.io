@@ -2,7 +2,7 @@
 # in the root directory
 
 consultancy:
-  - category: New York City
+  # - category: New York City
     items:
       - item: example.html
         image: /images/NYC1.jpg # optionally, include the file path for an image for each item
